@@ -1,5 +1,8 @@
 # ktu_repo_online_84
 
+Training accuracy 99%
+Validation accuracy 95%
+
 Validation confusion matrix
 
 [[236   0]
